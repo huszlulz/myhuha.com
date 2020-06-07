@@ -80,3 +80,5 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 Update : 
 
 Windows :When running Jekyll build, you should be update Nokogiri to the latest in Gemfile before running
+gem install --prerelease 
+Ruby2.7 didn't support old version of nokogiri
